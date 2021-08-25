@@ -21,7 +21,7 @@
 * Connect with me on: [Linkedin](https://www.linkedin.com/in/parth-v-a58ba6213/)
 
 ---
-![Github stats](https://github-readme-stats.vercel.app/api?username=Parthvsquare)
+![My Stats](https://github-readme-stats.vercel.app/api?username=Parthvsquare&theme=discord_old_blurple&count_private=true&show_icons=true)<br>
 ---
 
 
