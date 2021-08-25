@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hello there 👋
 
+#### I'm a software engineer working at [Biztrology](https://github.com/biztrology). 
+
+----
+📫 How to reach me: 
+* email me at: parthvsquarework@gmail.com 
+* want to hire me as freelancer: [fiver](https://www.fiverr.com/parth_v)
 <!--
 **Parthvsquare/Parthvsquare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
