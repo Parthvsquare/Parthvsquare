@@ -21,11 +21,14 @@
 ----
 📫 How to reach me: 
 * email me at: parthvsquarework@gmail.com 
-* want to hire me as freelancer: [fiver](https://www.fiverr.com/parth_v)
+* Want to hire me as freelancer: [fiver](https://www.fiverr.com/parth_v)
+* Connect with me on: [Linkedin](https://www.linkedin.com/in/parth-v-a58ba6213/)
 
 ---
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Parthvsquare)
 ---
+
+
 <!--
 **Parthvsquare/Parthvsquare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
