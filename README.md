@@ -1,7 +1,7 @@
 ### Hello there 👋
 #### I'm a software engineer working at [Biztrology](https://github.com/biztrology). 
 ---
-#### **My Technical skills**
+#### **My Technical skills:**
 ##### Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -15,7 +15,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ----
-📫 How to reach me: 
+### 📫 How to reach me: 
 * email me at: parthvsquarework@gmail.com 
 * Want to hire me as freelancer: [fiver](https://www.fiverr.com/parth_v)
 * Connect with me on: [Linkedin](https://www.linkedin.com/in/parth-v-a58ba6213/)
