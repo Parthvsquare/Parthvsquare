@@ -16,8 +16,8 @@
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ----
 ### 📫 How to reach me: 
-* email me at: parthvsquarework@gmail.com 
-* Want to hire me as freelancer: [fiver](https://www.fiverr.com/parth_v)
+* Email me at: parthvsquarework@gmail.com 
+* Want a freelancer: [fiver](https://www.fiverr.com/parth_v)
 * Connect with me on: [Linkedin](https://www.linkedin.com/in/parth-v-a58ba6213/)
 
 ---
