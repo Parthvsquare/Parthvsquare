@@ -6,6 +6,10 @@
 📫 How to reach me: 
 * email me at: parthvsquarework@gmail.com 
 * want to hire me as freelancer: [fiver](https://www.fiverr.com/parth_v)
+
+---
+**Stats**
+![Github stats](https://github-readme-stats.vercel.app/api?username=Parthvsquare)
 <!--
 **Parthvsquare/Parthvsquare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
