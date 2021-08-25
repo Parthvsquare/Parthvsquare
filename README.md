@@ -1,4 +1,5 @@
 ### Hello there 👋
+#### I'm a software engineer working at [Biztrology](https://github.com/biztrology). 
 ---
 #### **My Technical skills**
 ##### Languages
@@ -13,11 +14,6 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
-
----
-
-#### I'm a software engineer working at [Biztrology](https://github.com/biztrology). 
-
 ----
 📫 How to reach me: 
 * email me at: parthvsquarework@gmail.com 
