@@ -1,5 +1,5 @@
 ### Hello there 👋
-#### I'm a software engineer working at [Biztrology](https://github.com/biztrology). 
+#### I'm a software engineer working at [Biztrology](https://biz.lokobee.com/) and [myAdChain](https://www.myadchain.com/). 
 ---
 #### **My Technical skills:**
 ##### Languages
