@@ -6,7 +6,7 @@
 ----
 ### 📫 How to reach me: 
 * Email me at: parthvsquarework@gmail.com 
-* Want a freelancer: [fiver](https://www.fiverr.com/parth_v)
+* Have a gig, offer me: [fiver](https://www.fiverr.com/parth_v)
 * Connect with me on: [Linkedin](https://www.linkedin.com/in/parth-v-a58ba6213/)
 
 
