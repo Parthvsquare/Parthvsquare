@@ -1,5 +1,5 @@
 ### Hello there 👋
-#### I'm a software engineer working at [Biztrology](https://biz.lokobee.com/) and [myAdChain](https://www.myadchain.com/). 
+#### I'm a software engineer working at [trustworthy](https://trustworthy.io/). 
 ---
 #### **My Technical skills:**
 - Contact me and find out [Portfolio](https://parthvanarase.super.site/)
