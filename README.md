@@ -1,5 +1,5 @@
 ### Hello there 👋
-#### I'm a software engineer working at [trustworthy](https://trustworthy.io/). 
+#### I'm a software engineer working at [stamina](https://www.stamina.io/). 
 ---
 #### **My Technical skills:**
 - Contact me and find out [Portfolio](https://parthvanarase.super.site/)
