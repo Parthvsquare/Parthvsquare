@@ -5,8 +5,8 @@
 - Contact me and find out [Portfolio](https://parthvanarase.super.site/)
 ----
 ### 📫 How to reach me: 
-* Email me at: pvsquareservices@gmail.com 
-* Have a gig, offer me: [fiver](https://www.fiverr.com/parth_v)
+* Email me at: parth@branch42.com 
+* Have a gig, offer me: [upwork](https://www.upwork.com/freelancers/pvsquareservices?mp_source=share)
 * Connect with me on: [Linkedin](https://www.linkedin.com/in/parth-v-a58ba6213/)
 
 
