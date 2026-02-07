@@ -1,5 +1,5 @@
 ### Hello there 👋
-#### I'm a software engineer working at [stamina](https://www.stamina.io/). 
+#### I'm a software engineer working at [Branch42 Labs](https://www.labs.branch42.com/). 
 ---
 #### **My Technical skills:**
 - Contact me and find out [Portfolio](https://parthvanarase.super.site/)
